@@ -1,0 +1,29 @@
+# Sekrety
+.env
+.env.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# React / Node
+node_modules/
+dist/
+coverage/
+.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logi
+*.log
